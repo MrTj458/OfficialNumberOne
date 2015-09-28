@@ -35,6 +35,6 @@ public class InputController
 		System.out.println("Your full name is: "+fullName);
 		System.out.println("How old are you?");
 		int myAge = myInput.nextInt();
-		System.out.println("Wow "+input+" you are "+myAge+" years old!");
+		System.out.println("Wow "+input+", you are "+myAge+" years old!");
 	}
 }
